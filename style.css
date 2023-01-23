@@ -1,0 +1,25 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho {
+    background: #2A3342;
+}
+
+h4{
+    margin: 30px;
+}
+
+.texto_maior {
+    width: 850px;
+    margin: 15px;
+}
+
+.continue{
+    margin-left: 15px;
+}
+
+.card {
+    border: none;
+    margin-top: 15px;
+}
